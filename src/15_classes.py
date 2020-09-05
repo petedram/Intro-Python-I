@@ -13,6 +13,7 @@
 
 # YOUR CODE HERE
 
+
 # Make a new waypoint and print it out: "Catacombs", 41.70505, -121.51521
 
 # YOUR CODE HERE
